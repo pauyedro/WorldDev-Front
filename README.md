@@ -8,7 +8,7 @@ En este Proyecto vamos a crear una aplicación de busqueda sobre servicios de ho
 -- Maria de los Angeles Gallardo.
 -- Alexis Franco Llopard.
 -- Alfredo Patricio Uskaer.
--- Paula Adriana Yedro Infante.
+-- Paula Daiana Yedro Infante.
 -- Oliver Sebastian borda Mahecha.
 -- Ana Sol Maldonado.
 -- Hernan Javier Rinaldi.
